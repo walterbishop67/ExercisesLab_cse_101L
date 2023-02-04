@@ -2,11 +2,10 @@
 import java.util.Scanner;
 
 /**
- * @author Umut Altun
  * Date: 19.10.2022
  */
 
-public class Main {
+public class Assignment01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("--------Bread Store Inventory--------");
